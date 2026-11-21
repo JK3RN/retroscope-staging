@@ -1,0 +1,15 @@
+# Build output
+/build/
+/retroscope
+
+# Local secrets and editor/OS files (never commit)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.tmp
+.cache/
+.DS_Store
